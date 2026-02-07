@@ -1,7 +1,7 @@
 # Currency Converter
 A modern JavaFX desktop application for converting between 17 different world currencies with a beautiful gradient purple UI.
-Show Image
-Features
+
+# Features
 
 17 Supported Currencies: USD, EUR, GBP, JPY, CAD, AUD, CHF, CNY, SEK, NZD, MXN, SGD, HKD, NOK, KRW, TRY, PHP
 Real-time Conversion: Instant currency conversion as you type
@@ -10,7 +10,7 @@ Modern UI: Clean gradient purple interface with flag icons
 Currency Information: View current exchange rates for all supported currencies
 Swap Function: Quickly swap between source and target currencies
 
-System Requirements
+# System Requirements
 
 Java 8 or higher
 JavaFX runtime (included in Java 8, separate download for Java 11+)
